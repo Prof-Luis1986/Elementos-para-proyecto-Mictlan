@@ -1,1 +1,1 @@
-Este repositorio contirne archivos d audio, que seran utiles para proyectos y prácticas escolares ya sea para desarrollar aplicaciones o sitios web, asi como aplicaciones interactivas.
+Este repositorio contirne archivos de audio, que seran utiles para proyectos y prácticas escolares ya sea para desarrollar aplicaciones o sitios web, asi como aplicaciones interactivas.
